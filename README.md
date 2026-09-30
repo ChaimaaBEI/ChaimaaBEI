@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Chaimaa 👋
 
-<!--
-**ChaimaaBEI/ChaimaaBEI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year student in **Computer Science – Application Development** at Institut Saint-Laurent (Liège, Belgium).
+Before moving into development, I worked as a **Business Analyst** and **Product Owner**, so I enjoy turning business needs into working software.
 
-Here are some ideas to get you started:
+🎯 **Currently looking for a 9-week final-year internship (TFE) in software development.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech stack
+- **Back-end:** Java (Spring Boot, JPA/Hibernate), PHP, C
+- **Front-end:** Angular, JavaScript, HTML/CSS, Bootstrap
+- **Databases:** PostgreSQL, MySQL, SQL Server, Oracle
+- **Tools & methods:** Git/GitHub, REST APIs, Swagger, Docker, UML, Agile/Scrum
+
+## 📂 Featured projects
+- **LocalLoop** *(in progress, private repository)* — Peer-to-peer object rental platform built with Spring Boot, Angular, PostgreSQL, Keycloak and Stripe
+- **[ActuScope](https://github.com/ChaimaaBEI/ActuScope)** — News website in PHP with a custom MVC framework and an AJAX SPA mode *(team project)*
+- **[Candy Crush – Console Edition](https://github.com/ChaimaaBEI/Candy-Crush-Console)** — Match-3 game in C using a circular FIFO queue
+
+## 📫 Contact
+[LinkedIn](https://www.linkedin.com/in/chaimaa-berrami-el-idrissi)
